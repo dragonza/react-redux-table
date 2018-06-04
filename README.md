@@ -1,7 +1,7 @@
 This project is using the boilderplate from https://github.com/dragonza/react-redux-boilerplate.
 The project is built with React Redux and Material UI.
 
-#About
+##About
 
 A table grid which displays the students information and it allows users to edit and delete row.
 The table supports sorting on each column.
