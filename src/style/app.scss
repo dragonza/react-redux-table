@@ -1,0 +1,21 @@
+$background-input: transparent;
+
+.SingleDatePickerInput{
+  background: $background-input;
+
+  .DateInput {
+    background: $background-input;
+  }
+
+  .DateInput_input {
+    padding: 0;
+    font-size: .8125rem;
+    background: $background-input;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.42)
+  }
+}
+
+.editable .SingleDatePickerInput {
+  background: $background-input;
+}
+
