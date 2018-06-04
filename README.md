@@ -6,8 +6,6 @@ The project is built with React Redux and Material UI.
 A table grid which displays the students information and it allows users to edit and delete row.
 The table supports sorting on each column.
 
-The project has not been tested yet.
-
 Below you will find some information on how to perform common tasks.<br>
 
 ## Getting Started
