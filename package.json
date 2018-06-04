@@ -63,7 +63,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://dragonza.github.io/react-redux-boilerplate",
+  "homepage": "https://dragonza.github.io/react-redux-table",
   "jest": {
     "collectCoverageFrom": [
       "src/**/*.{js,jsx,mjs}"
